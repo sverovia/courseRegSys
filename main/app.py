@@ -1,7 +1,7 @@
 from datetime import datetime
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder="src")
 
 
 # Define the URL route (Root address)
@@ -16,6 +16,22 @@ def home():
         "index.html", user_name=name, current_time=server_time
     )
 
+@app.route("/register", methods=["GET", "POST"])
+def register():
+    if request.method == "POST":
+        # Extract the input values using the 'name' attribute from the HTML
+        student_name = request.form.get("student_name")
+        course_selected = request.form.get("course")
+
+        # Process the data (e.g., save to a database, calculate logic)
+        message = f"Success! {student_name} registered for {course_selected}."
+
+        # Send the user to a confirmation state, passing the success message
+        return render_template(
+            "register.html", status_message=message, is_submitted=True
+        )
+    else:
+        return render_template("register.html")
 
 if __name__ == "__main__":
     # Run a local development server
