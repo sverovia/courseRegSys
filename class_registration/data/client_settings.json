@@ -1,6 +1,6 @@
 {
-  "server": "http://127.0.0.1:8031",
-  "student_id": "ADMIN",
+  "server": "http://127.0.0.1:8000",
+  "student_id": "S1001",
   "year": 2026,
   "term": 1
 }
