@@ -1,0 +1,43 @@
+year,term,code,section,title,instructor,department,day,start,end,venue,capacity,credits,description
+2026,1,CS101,A,Introduction to Programming,Dr. Alice Chan,Computer Science,Mon,09:00,10:30,Science Hall R101,40,3,Variables and control flow through to functions and files. No prior coding experience required.
+2026,1,CS101,B,Introduction to Programming,Dr. Alice Chan,Computer Science,Wed,09:00,10:30,Science Hall R101,40,3,Second session of CS101 - same syllabus as section A. Pick only one.
+2026,1,CS101,C,Introduction to Programming,Mr. Roy Tang,Computer Science,Mon,11:00,12:30,Science Hall R105,35,3,Evening-friendly third session. Overlaps MA110 section A on Monday.
+2026,1,CS205,A,Data Structures,Prof. Ben Lau,Computer Science,Tue,11:00,12:30,Science Hall R204,35,3,Lists stacks queues trees and hash maps with weekly lab exercises in Python.
+2026,1,CS205,B,Data Structures,Prof. Ben Lau,Computer Science,Thu,11:00,12:30,Science Hall R204,35,3,Repeat session of CS205 for students who cannot attend on Tuesday.
+2026,1,CS330,A,Database Systems,Dr. Helen Zhou,Computer Science,Wed,14:00,15:30,Science Hall R212,28,3,Relational modelling SQL transactions indexing and normalisation with a term project.
+2026,1,CS330,B,Database Systems,Dr. Helen Zhou,Computer Science,Fri,14:00,15:30,Science Hall R212,28,3,Second CS330 session. Clashes with AR180 studio time on Friday afternoon.
+2026,1,AI410,A,Machine Learning Foundations,Dr. Joyce Lam,Computer Science,Fri,09:00,11:00,Innovation Lab I1,22,4,Supervised learning model evaluation and neural network basics. Prerequisite: MA110 or consent.
+2026,1,MA110,A,Calculus I,Dr. Clara Ng,Mathematics,Mon,11:00,12:30,Liberal Arts B201,50,4,Limits derivatives and integration with applications to science and economics.
+2026,1,MA110,B,Calculus I,Dr. Clara Ng,Mathematics,Tue,09:00,10:30,Liberal Arts B201,50,4,Same Calculus I syllabus as section A on a different day.
+2026,1,EN150,A,Academic Writing,Ms. Diana Ho,English,Wed,09:30,11:00,Language Centre L3,25,3,Paragraph and essay structure argumentation citation and revision workshops.
+2026,1,EN150,B,Academic Writing,Ms. Diana Ho,English,Thu,09:30,11:00,Language Centre L3,25,3,Second EN150 workshop group. Overlaps PH120 on Thursday morning.
+2026,1,PH120,A,Classical Mechanics,Dr. Edwin Tsang,Physics,Thu,10:00,12:00,Science Hall R310,30,4,Newtonian mechanics energy momentum rotation and an introduction to oscillation.
+2026,1,BU210,A,Principles of Marketing,Prof. Fiona Yip,Business,Tue,15:00,16:30,Business Tower B502,45,3,Market segmentation positioning the marketing mix and a team-based case project.
+2026,1,AR180,A,Digital Illustration,Mr. Gordon Ma,Arts and Design,Fri,13:00,16:00,Studio Wing S2,18,3,Studio course in digital drawing composition and colour using tablets and vector tools.
+2026,1,PS140,A,Introduction to Psychology,Dr. Ivan Kwok,Social Science,Thu,15:00,16:30,Liberal Arts B105,60,3,Perception learning memory emotion and an overview of research methods.
+2026,1,PS140,B,Introduction to Psychology,Dr. Ivan Kwok,Social Science,Wed,15:00,16:30,Liberal Arts B105,60,3,Midweek repeat of PS140 for students with Thursday commitments.
+2026,1,ST230,A,Statistics for Science,Dr. Karen Shum,Mathematics,Mon,14:00,15:30,Science Hall R115,45,3,Descriptive statistics probability distributions hypothesis testing and regression.
+2026,1,HI105,A,World History since 1500,Dr. Louis Cheung,Humanities,Tue,13:00,14:30,Liberal Arts A210,40,3,Trade empires industrialisation decolonisation and global conflict.
+2026,2,CS102,A,Object-Oriented Programming,Dr. Alice Chan,Computer Science,Mon,09:00,10:30,Science Hall R101,40,3,Classes inheritance and polymorphism with a small team project.
+2026,2,CS102,B,Object-Oriented Programming,Dr. Alice Chan,Computer Science,Wed,13:00,14:30,Science Hall R101,40,3,Second CS102 session. Overlaps AR190 studio time on Wednesday.
+2026,2,CS205,A,Data Structures,Prof. Ben Lau,Computer Science,Mon,11:00,12:30,Science Hall R204,35,3,Data structures running again in Term 2 with the same syllabus.
+2026,2,MA210,A,Linear Algebra,Dr. Clara Ng,Mathematics,Tue,10:00,11:30,Liberal Arts B201,45,4,Vector spaces matrices eigenvalues and applications to data science.
+2026,2,EN160,A,Public Speaking,Ms. Diana Ho,English,Thu,14:00,15:30,Language Centre L3,20,3,Structure delivery and impromptu speaking with recorded practice sessions.
+2026,2,BU220,A,Financial Accounting,Prof. Fiona Yip,Business,Wed,15:00,16:30,Business Tower B502,50,3,Double entry bookkeeping statements of profit and loss and balance sheets.
+2026,2,BU220,B,Financial Accounting,Prof. Fiona Yip,Business,Fri,09:00,10:30,Business Tower B502,50,3,Second BU220 session. Overlaps AI420 on Friday morning.
+2026,2,AR190,A,Digital Photography,Mr. Gordon Ma,Arts and Design,Fri,13:00,16:00,Studio Wing S2,16,3,Camera handling light metering composition and a printed portfolio.
+2026,2,PS150,A,Developmental Psychology,Dr. Ivan Kwok,Social Science,Tue,15:00,16:30,Liberal Arts B105,55,3,Human development from infancy to adolescence with observation exercises.
+2026,2,AI420,A,Deep Learning,Dr. Joyce Lam,Computer Science,Fri,10:00,12:00,Innovation Lab I1,20,4,Convolutional and recurrent networks training practice and model deployment.
+2026,2,PH130,A,Waves and Optics,Dr. Edwin Tsang,Physics,Thu,10:00,12:00,Science Hall R310,28,4,Wave propagation interference diffraction and geometric optics.
+2026,2,CS340,A,Computer Networks,Dr. Helen Zhou,Computer Science,Tue,13:00,14:30,Science Hall R212,30,3,Packet switching routing transport protocols and a socket programming lab.
+2026,2,HI115,A,Modern East Asia,Dr. Louis Cheung,Humanities,Mon,15:00,16:30,Liberal Arts A210,40,3,Reform revolution and regional relations in East Asia since 1850.
+2027,1,CS101,A,Introduction to Programming,Dr. Alice Chan,Computer Science,Mon,09:00,10:30,Science Hall R101,40,3,The standard first programming course offered again in the new academic year.
+2027,1,CS101,B,Introduction to Programming,Dr. Alice Chan,Computer Science,Fri,09:00,10:30,Science Hall R101,40,3,Second 2027 session of CS101. Choose either section A or B.
+2027,1,MA110,A,Calculus I,Dr. Clara Ng,Mathematics,Mon,11:00,12:30,Liberal Arts B201,50,4,Calculus I for the 2027 intake. Overlaps CS101 section A after the first half hour.
+2027,1,CS250,A,Algorithms,Prof. Ben Lau,Computer Science,Wed,09:00,10:30,Science Hall R204,35,4,Sorting graph traversal greedy and dynamic programming with complexity analysis.
+2027,1,AI410,A,Machine Learning Foundations,Dr. Joyce Lam,Computer Science,Fri,11:00,13:00,Innovation Lab I1,22,4,Machine learning foundations repeated for the new year with a new lab project.
+2027,1,EN150,A,Academic Writing,Ms. Diana Ho,English,Tue,09:30,11:00,Language Centre L3,25,3,Academic writing offered in the 2027 intake with a research essay focus.
+2027,1,BU210,A,Principles of Marketing,Prof. Fiona Yip,Business,Thu,09:00,10:30,Business Tower B502,45,3,Marketing principles for 2027 with a live client brief.
+2027,1,AR180,A,Digital Illustration,Mr. Gordon Ma,Arts and Design,Wed,13:00,16:00,Studio Wing S2,18,3,Illustration studio in the 2027 intake. Overlaps CS250 on Wednesday morning slots.
+2027,1,PS140,A,Introduction to Psychology,Dr. Ivan Kwok,Social Science,Thu,13:00,14:30,Liberal Arts B105,60,3,Psychology introduction offered again in 2027.
+2027,1,ST230,A,Statistics for Science,Dr. Karen Shum,Mathematics,Tue,13:00,14:30,Science Hall R115,45,3,Statistics for the 2027 intake including a data analysis project.

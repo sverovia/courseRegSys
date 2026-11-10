@@ -1,0 +1,17 @@
+student_id,name,email,password,can_register,role
+S1001,Amy Wong,amy.wong@student.edu,amy2026,1,student
+S1002,Brian Lee,brian.lee@student.edu,brian2026,1,student
+S1003,Chloe Fung,chloe.fung@student.edu,chloe2026,1,student
+S1004,Daniel Ip,daniel.ip@student.edu,daniel2026,1,student
+S1005,Eva Cheung,eva.cheung@student.edu,eva2026,1,student
+S1006,Felix Tam,felix.tam@student.edu,felix2026,0,student
+S1007,Grace Lau,grace.lau@student.edu,grace2026,1,student
+S1008,Henry So,henry.so@student.edu,henry2026,1,student
+S1009,Iris Ng,iris.ng@student.edu,iris2026,1,student
+S1010,Jason Ho,jason.ho@student.edu,jason2026,1,student
+S1011,Karen Yau,karen.yau@student.edu,karen2026,1,student
+S1012,Leo Chan,leo.chan@student.edu,leo2026,1,student
+S1013,Mia Tsui,mia.tsui@student.edu,mia2026,1,student
+S1014,Nora Yeung,nora.yeung@student.edu,nora2026,0,student
+S1015,Oscar Lam,oscar.lam@student.edu,oscar2026,1,student
+S1016,Peggy Ho,peggy.ho@student.edu,peggy2026,1,student
